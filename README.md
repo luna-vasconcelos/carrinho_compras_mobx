@@ -1,6 +1,6 @@
-# LevelUP5 - Raro Academy - Carrinho de compras com mobx
+# Carrinho de compras com mobx
 
-#LevelUP5
+# Exemplo de uma aplicação de carrinho de compras utilizando MobX
 
 ## Resultado
 
