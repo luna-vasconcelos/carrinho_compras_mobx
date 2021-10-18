@@ -1,6 +1,6 @@
 # Carrinho de compras com mobx
 
-# Exemplo de uma aplicação de carrinho de compras utilizando MobX
+- Exemplo de uma tela de carrinho de compras utilizando MobX
 
 ## Resultado
 
